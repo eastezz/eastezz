@@ -2,4 +2,4 @@
 
 ### Current projects
 ---
-* CitizensServiseAPI[CitizensServiseAPI] - modern backend project built with C# and .NET, simulating a digital government service system.
+* [CitizensServiseAPI](CitizensServiseAPI) - modern backend project built with C# and .NET, simulating a digital government service system.
