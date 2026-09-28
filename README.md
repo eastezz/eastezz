@@ -27,7 +27,7 @@
 ### Software Engineering
 
 - **[CS_ConsoleProjects](https://github.com/eastezz/CS_ConsoleProjects)** - file system tree, file parser with custom exceptions, music player (Decorator and Factory patterns), fishing game, Hangman
-- **[Projects](https://github.com/eastezz/Projects)** - Java console games and a generic building loader, plus a doubly linked list and a dynamic array implemented by hand in Python
+- **[java-python-exercises](https://github.com/eastezz/Projects)** - Java console games and a generic building loader, plus a doubly linked list and a dynamic array implemented by hand in Python
 
 ## GitHub Activity
 
