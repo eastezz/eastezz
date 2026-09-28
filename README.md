@@ -41,7 +41,7 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Oleksandr_Ovsiannikov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-ovsiannikov-7542b736a/)
+[![LinkedIn](https://img.shields.io/badge/-Oleksandr_Ovsiannikov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-ovsiannikov)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eastezz)
 
 <details>
